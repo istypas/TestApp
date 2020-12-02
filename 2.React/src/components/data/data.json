@@ -1,0 +1,112 @@
+[
+    {
+        "__pk": 1,
+        "property_name": "Sea View",
+        "near_beach": 1,
+        "accepts_pets": 1,
+        "sleeps": 4,
+        "beds": 2,
+        "location_name": "Cornwall",
+        "start_date": "2020-08-26",
+        "end_date": "2020-09-02"
+    },
+    {
+        "__pk": 2,
+        "property_name": "Sea View",
+        "near_beach": 1,
+        "accepts_pets": 1,
+        "sleeps": 4,
+        "beds": 2,
+        "location_name": "Cornwall",
+        "start_date": "2020-12-06",
+        "end_date": "2020-12-13"
+    },
+    {
+        "__pk": 3,
+        "property_name": "The Retreat",
+        "near_beach": 1,
+        "accepts_pets": 0,
+        "sleeps": 2,
+        "beds": 1,
+        "location_name": "Scotland",
+        "start_date": "2021-05-26",
+        "end_date": "2021-06-02"
+    },
+    {
+        "__pk": 4,
+        "property_name": "Cosey",
+        "near_beach": 0,
+        "accepts_pets": 0,
+        "sleeps": 6,
+        "beds": 4,
+        "location_name": "Yorkshire",
+        "start_date": "2019-12-06",
+        "end_date": "2019-12-13"
+    },
+    {
+        "__pk": 5,
+        "property_name": "Beach Cottage",
+        "near_beach": 1,
+        "accepts_pets": 1,
+        "sleeps": 8,
+        "beds": 6,
+        "location_name": "Wales",
+        "start_date": "2019-10-01",
+        "end_date": "2019-10-08"
+    },
+    {
+        "__pk": 6,
+        "property_name": "Coach House",
+        "near_beach": 0,
+        "accepts_pets": 1,
+        "sleeps": 5,
+        "beds": 3,
+        "location_name": "Scotland",
+        "start_date": "2021-01-13",
+        "end_date": "2021-01-20"
+    },
+    {
+        "__pk": 7,
+        "property_name": "The Retreat",
+        "near_beach": 1,
+        "accepts_pets": 0,
+        "sleeps": 2,
+        "beds": 1,
+        "location_name": "Scotland",
+        "start_date": "2020-11-26",
+        "end_date": "2020-11-02"
+    },
+    {
+        "__pk": 8,
+        "property_name": "Beach Cottage",
+        "near_beach": 1,
+        "accepts_pets": 1,
+        "sleeps": 8,
+        "beds": 6,
+        "location_name": "Wales",
+        "start_date": "2020-12-06",
+        "end_date": "2020-12-13"
+    },
+    {
+        "__pk": 9,
+        "property_name": "Cosey",
+        "near_beach": 0,
+        "accepts_pets": 0,
+        "sleeps": 6,
+        "beds": 4,
+        "location_name": "Yorkshire",
+        "start_date": "2021-08-26",
+        "end_date": "2021-09-02"
+    },
+    {
+        "__pk": 10,
+        "property_name": "Coach House",
+        "near_beach": 0,
+        "accepts_pets": 1,
+        "sleeps": 5,
+        "beds": 3,
+        "location_name": "Scotland",
+        "start_date": "2020-10-06",
+        "end_date": "2020-10-13"
+    }
+]
